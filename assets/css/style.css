@@ -167,8 +167,8 @@ h6 {
   display: flex;
   align-items: center;
   color: #a8a9b4;
-  padding: 10px 15px;
-  margin-bottom: 8px;
+  padding: 7px 15px;
+  margin-bottom: 0px;
   transition: 0.3s;
   font-size: 15px;
 }
